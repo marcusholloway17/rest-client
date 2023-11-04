@@ -28,7 +28,7 @@
     "typescript": "^5.2.2"
   },
   "repository": {
-    "url": "https://github.com/marcusholloway17/rest-client"
+    "url": "git+https://github.com/marcusholloway17/rest-client.git"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
