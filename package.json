@@ -1,5 +1,5 @@
 {
-  "name": "@eka-digital/rest-client",
+  "name": "rest-client",
   "version": "1.0.0",
   "description": "This package is a helper to easily make an HTTP REST request. it's based on Axios",
   "main": "src/dist/index.js",
