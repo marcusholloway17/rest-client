@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "This package is a helper to easily make an HTTP REST request. it's based on Axios",
   "main": "src/dist/index.js",
+  "types": "src/dist/index.d.ts",
   "scripts": {
     "test": "jest"
   },
@@ -32,5 +33,9 @@
   },
   "publishConfig": {
     "@mljsdev/rest-client:registry": "https://npm.pkg.github.com"
-  }
+  },
+  "files": [
+    "src/dist/index.js",
+    "src/dist/index.d.ts"
+  ]
 }
