@@ -8,7 +8,7 @@ This package is a helper to easily make an HTTP REST request. it's based on Axio
 Use this command to install the package
 
 ```bash
-  npm install @eka-digital/rest-client
+  npm install @mljsdev/rest-client
 ```
     
 ## Usage/Examples
