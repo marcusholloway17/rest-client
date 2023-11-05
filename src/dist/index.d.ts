@@ -1,3 +1,3 @@
 export * from "./core/rest-client";
 export * from "./interfaces";
-export { AxiosRequestConfig, AxiosResponse, CreateAxiosDefaults, AxiosInstance, } from "axios";
+export { AxiosRequestConfig, AxiosResponse, AxiosError, CreateAxiosDefaults, AxiosInstance, } from "axios";
