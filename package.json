@@ -34,9 +34,5 @@
   },
   "publishConfig": {
     "@mljsdev/rest-client:registry": "https://npm.pkg.github.com"
-  },
-  "files": [
-    "src/dist/index.js",
-    "src/dist/index.d.ts"
-  ]
+  }
 }
