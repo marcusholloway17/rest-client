@@ -14,7 +14,7 @@ Use this command to install the package
 ## Usage/Examples
 First, import the `RestClient`, then define your default client configuration. For more details on configuration refer to [AxiosRequestConfig](https://www.npmjs.com/package/axios#request-config)
 ```javascript
-import { RestClient } from '@eka-digital/rest-client'
+import { RestClient } from '@mljsdev/rest-client'
 
 const config = {
     baseURL: "https://yawa.sedana.io",
