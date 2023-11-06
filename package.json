@@ -15,7 +15,7 @@
     "typescript",
     "nodejs"
   ],
-  "author": "",
+  "author": "Jean-Luc LOGAN <lognjean17@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "axios": "^1.6.0"
